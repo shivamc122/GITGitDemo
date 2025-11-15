@@ -23,4 +23,16 @@ public void BranchTest3() {
 	}
 
 
+public void GitDemoTestBranch2() {
+	
+	System.out.println("This is GitDemo Testcases");
+}
+
+
+public void GitDemoBranchTest3() {
+	
+	System.out.println("This is GitDemoTestcases");
+}
+
+
 }
