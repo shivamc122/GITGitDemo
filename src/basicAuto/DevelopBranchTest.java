@@ -28,4 +28,14 @@ public void Test4() {
 	System.out.println("This is GitStuff4");
 }
 
+public void Test5() {
+	
+	System.out.println("This is MasterGitStuff4");
+}
+
+public void Test6() {
+	
+	System.out.println("This is MasterGitStuff5");
+}
+
 }
